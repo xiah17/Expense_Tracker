@@ -1,3 +1,3 @@
 # Expense Tracker 
 
-*This Personal Project is still in progress
+This Personal Project is still in progress
