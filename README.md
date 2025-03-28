@@ -9,4 +9,3 @@ Developed the Expense Tracker App, a web application developed in ASP.NET Core 8
 * **Entity Framework Core:** Entity Framework Core is employed for database access and management.
 
 # Features
-* This Personal Project is still in progress
