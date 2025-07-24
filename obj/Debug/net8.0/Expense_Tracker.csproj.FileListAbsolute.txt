@@ -73,6 +73,8 @@ D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.Pack
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.ProjectModel.dll
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.Protocol.dll
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
+D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\System.ClientModel.dll
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\System.CodeDom.dll
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -257,6 +259,7 @@ D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tr
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.AssemblyInfoInputs.cache
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.AssemblyInfo.cs
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.csproj.CoreCompileInputs.cache
+D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.MvcApplicationPartsAssemblyInfo.cs
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.MvcApplicationPartsAssemblyInfo.cache
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.RazorAssemblyInfo.cache
 D:\Full-Stack-Dotnet\Expense_Tracker\Expense_Tracker\obj\Debug\net8.0\Expense_Tracker.RazorAssemblyInfo.cs
