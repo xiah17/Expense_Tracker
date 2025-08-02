@@ -32,21 +32,25 @@ body {
     font-size: x-large;
 }
 
+/*BreadCrumb*/
+.e-breadcrumb a, .e-breadcrumb a:hover {
+    text-decoration: none !important;
+    color: inherit !important;
+}
 
-
-/* Button */
+/*Button*/
 .btn:focus, .btn:active {
     outline: none !important;
     box-shadow: none;
 }
 
-/* Hyperlink */
+/*Hyperlink*/
 .no-a-decoration, .no-a-decoration:hover {
-    text-decoration:none;
+    text-decoration: none;
     color: inherit;
 }
 
-/* Grid */
+/*Grid*/
 .e-grid {
     border: 0;
     border-radius: 5px;
@@ -56,13 +60,13 @@ body {
         background-color: #1a222b;
     }
 
-.e-grid .e-gridheader {
-    border: 5px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    padding: 10px;
-    background-color: #222b33;
-}
+    .e-grid .e-gridheader {
+        border: 5px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        padding: 10px;
+        background-color: #222b33;
+    }
 
         .e-grid .e-gridheader .e-headercell {
             background-color: #222b33;
@@ -72,7 +76,7 @@ body {
         background-color: #1a222b;
     }
 
-    .e-grid .e-gridcontainer {
+    .e-grid .e-pagercontainer {
         border: none;
         background-color: #1a222b;
     }
