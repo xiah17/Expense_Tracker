@@ -45,19 +45,19 @@
                                 <div class="d-flex mb-1">
                                     <div class="flex-grow-1">
                                         <h3 class="fw-bold">@ViewData["PageTitle"]</h3>
-                                     </div>
+                                    </div>
                                         @if (ViewData["PageActionText"] != null)
                                         {
                                             <a class="btn btn-success" href="@ViewData["PageActionUrl"]">
                                                 @ViewData["PageActionText"]
                                             </a>
                                         }
-                                    </div>
+                                 </div>
                                  <ejs-breadcrumb id="breadcrumb"
                                     separatorTemplate="@Html.Raw("<span class='fa-solid fa-angle-right'></span>")"></ejs-breadcrumb>
-                          </div>            
-                       </div>
-                    </div>
+                            </div>            
+                         </div>
+                      </div>
                     @RenderBody()
                 </main>
             </div>
