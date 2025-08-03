@@ -9,8 +9,8 @@ Developed the Expense Tracker App, a web application developed in ASP.NET Core 8
 * **Entity Framework Core:** Entity Framework Core is employed for database access and management.
 
 # Features
-* ** CRUD Operations: Implemented CRUD (Create, Read, Update, Delete) operations for both categories and transactions to allow users to manage their data effectively.
-* ** Grid with Paging & Sorting: Utilized SyncFusion grid component with paging and sorting functionalities to enhance data presentation and accessibility.
-* ** Dashboard with Chart Elements: Created a dashboard featuring chart elements to provide users with visual insights into their spending patterns.
-* ** Side Menu within Dockable Sidebar: Integrated a side menu within a dockable sidebar for easy navigation across different sections of the application.
-* ** Login and Logout Authentication: Implemented authentication features to ensure secure access to the application, allowing users to log in to their accounts and log out when done.
+* CRUD Operations: Implemented CRUD (Create, Read, Update, Delete) operations for both categories and transactions to allow users to manage their data effectively.
+* Grid with Paging & Sorting: Utilized SyncFusion grid component with paging and sorting functionalities to enhance data presentation and accessibility.
+* Dashboard with Chart Elements: Created a dashboard featuring chart elements to provide users with visual insights into their spending patterns.
+* Side Menu within Dockable Sidebar: Integrated a side menu within a dockable sidebar for easy navigation across different sections of the application.
+* Login and Logout Authentication: Implemented authentication features to ensure secure access to the application, allowing users to log in to their accounts and log out when done.
