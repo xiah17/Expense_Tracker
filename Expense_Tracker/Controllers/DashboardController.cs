@@ -54,10 +54,22 @@ namespace Expense_Tracker.Controllers
                     amount = k.Sum(j => j.Amount),
                     formattedAmount = k.Sum(j => j.Amount).ToString("C0"),
                 })
-                .OrderByDescending(l=>l.amount)
+                .OrderByDescending(l => l.amount)
                 .ToList();
+
+            //Spline Chart - Income and Expense
+            //Income
+
+
 
             return View();
         }
+    }
+
+    public class SplineChartData
+    {
+        public string day;
+        public int income;
+        public int expense;
     }
 }
