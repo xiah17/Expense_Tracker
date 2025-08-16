@@ -1,4 +1,3 @@
-wwwroot\css\site.css
 wwwroot\favicon-16x16.png
 wwwroot\favicon-32x32.png
 wwwroot\favicon.ico
@@ -62,3 +61,4 @@ wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
 wwwroot\logo.png
 wwwroot\profile.jpg
+wwwroot\css\site.css
