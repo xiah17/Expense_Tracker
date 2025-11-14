@@ -13,6 +13,7 @@ Developed the Expense Tracker App, a web application developed in ASP.NET Core 8
 * **Grid with Paging & Sorting:** Utilized SyncFusion grid component with paging and sorting functionalities to enhance data presentation and accessibility.
 * **Dashboard with Chart Elements:** Created a dashboard featuring chart elements to provide users with visual insights into their spending patterns.
 * **Side Menu within Dockable Sidebar:** Integrated a side menu within a dockable sidebar for easy navigation across different sections of the application.
+* **Login and Logout Authentication:** Implemented authentication features to ensure secure access to the application, allowing users to log in to their accounts and log out when done.
   
 # Usage
 The Expense Tracker App caters to individuals or businesses looking to manage their expenses effectively. Users can be anyone who wants to track their spending habits, categorize expenses, and gain insights into their financial activities.
